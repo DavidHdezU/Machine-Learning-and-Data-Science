@@ -8,7 +8,7 @@ Repiositorio dónde se subirán todas las tareas del Seminario de Estadistica
 
 
 # Equipo
-- David Hernández Uriostegui 420003709
+- Hernández Uriostegui David 420003709
 - Santos Arroyo María Vanessa 315275520 
 - Noguera Sánchez Dagny 315337842
 
